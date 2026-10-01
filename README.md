@@ -227,7 +227,7 @@ The implementation is intentionally kept in one notebook because this project is
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/fashion-mnist-ddpm-from-scratch.git
+git clone https://github.com/Shishir1008/fashion-mnist-ddpm-from-scratch.git
 cd fashion-mnist-ddpm-from-scratch
 ```
 
